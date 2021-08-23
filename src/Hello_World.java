@@ -6,6 +6,6 @@ public class Hello_World {
         for (int i=1; i <= 10; i++){
             System.out.println(i);
         }
-        System.out.println("Task Completed");
+        System.out.println("Completed");
     }
 }
